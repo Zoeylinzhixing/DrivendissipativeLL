@@ -13,7 +13,7 @@ Raw data used to generate the figures are included as `.txt` files. When importi
 
 ### Data Generation Scripts
 
-The scripts used to generate the raw data in `.txt` format are provided as:  
+The scripts used to generate the raw data in `.txt` format are provided as: `Raw_data.nb`
 
 
 
